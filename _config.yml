@@ -1,0 +1,19 @@
+title: VideoSoft.org
+author: Dmitriy Kovalev
+email: info@videosoft.org
+description: >
+  Data compression & lossless video codecs.
+baseurl: "/videosoft.org"
+url: "http://dmitriykovalev.github.io"
+github_username:  dmitriykovalev
+repository: dmitriykovalev/videosoft.org
+google_analytics: UA-234187-1
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
