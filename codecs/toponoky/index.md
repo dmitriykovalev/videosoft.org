@@ -4,4 +4,4 @@ title: Toponoky
 menu: main
 ---
 
-[![Download Toponoky](/assets/download-big.gif)](/res/download/codecs/toponoky/toponoky-setup.exe)
+[![Download Toponoky]({{site.baseurl}}/assets/download-big.gif)](/res/download/codecs/toponoky/toponoky-setup.exe)
