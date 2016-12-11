@@ -8,12 +8,12 @@ title: Lossless video codecs
 
 ## FastCodec
 
-[![Get FastCodec]({{site.baseurl}}/assets/fastcodec-small.jpg)](/codecs/fastcodec/)
+[![Get FastCodec]({{site.baseurl}}/assets/fastcodec-small.jpg)]({{site.baseurl}}/codecs/fastcodec/)
 
 Fast lossless video codec designed for video capture applications.
 
 ## Toponoky
 
-[![Get Toponoky]({{site.baseurl}}/assets/toponoky-small.jpg)](/codecs/toponoky/)
+[![Get Toponoky]({{site.baseurl}}/assets/toponoky-small.jpg)]({{site.baseurl}}/codecs/toponoky/)
 
 Lossless video codec achieving higher compression ratio than FastCodec.

@@ -4,5 +4,5 @@ title: Codecs
 menu: no
 ---
 
-* [FastCodec](/codecs/fastcodec/)
-* [Toponoky](/codecs/toponoky/)
+* [FastCodec]({{site.baseurl}}/codecs/fastcodec/)
+* [Toponoky]({{site.baseurl}}/codecs/toponoky/)
