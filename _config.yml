@@ -3,8 +3,8 @@ author: Dmitriy Kovalev
 email: info@videosoft.org
 description: >
   Data compression & lossless video codecs.
-baseurl: "/videosoft.org"
-url: "http://dmitriykovalev.github.io"
+baseurl: ""
+url: "http://videosoft.org"
 github_username:  dmitriykovalev
 repository: dmitriykovalev/videosoft.org
 google_analytics: UA-234187-1
@@ -15,5 +15,6 @@ theme: minima
 gems:
   - jekyll-feed
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
